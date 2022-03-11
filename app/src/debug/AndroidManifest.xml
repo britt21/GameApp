@@ -6,7 +6,7 @@
     <application>
         <activity
             android:name="com.megagames.TestHiltActivity"
-            android:exported="true">
+            android:exported="false">
         </activity>
 
 </application>
