@@ -21,3 +21,6 @@ Using Room Database
 
 ### Image Loader
 Using Coil image Loader
+
+### Multi-Module
+Using Proper Arcitecting Modularization was implmented to achieve seperation of concern into multiple Layers
