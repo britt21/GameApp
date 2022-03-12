@@ -16,8 +16,8 @@ End To End Test(Large Test),
 ##### Network Call
 Using Retrofit || Gson converter || HttpLogger Interceptor
 
-###### Offline Cache
+### Offline Cache
 Using Room Database
 
-###### Image Loader
+### Image Loader
 Using Coil image Loader
